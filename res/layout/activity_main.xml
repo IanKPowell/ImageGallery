@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Grid View showing image thumbnails -->
+<GridView android:gravity="center" android:horizontalSpacing="20dp"
+     android:verticalSpacing="20dp" android:stretchMode="columnWidth" android:numColumns="2" 
+     android:padding="10dip" android:layout_height="match_parent" android:layout_width="match_parent" 
+     android:id="@+id/grid_view" xmlns:android="http://schemas.android.com/apk/res/android"/>
